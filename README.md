@@ -1,2 +1,4 @@
 # appdep1dummy
-dummy app dep project
+hi this is vikas 
+dummmy project based on 
+appdep1
